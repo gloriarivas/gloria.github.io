@@ -34,7 +34,6 @@ Currently learning:
   <input type="email">
   <br>
   <label>Message: </label>
-  <br>
   <textarea></textarea>
   <br>
   <button type="submit">Send</button>
