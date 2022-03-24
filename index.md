@@ -31,7 +31,7 @@ Currently learning:
   <br>
   <input type="email" placeholder="E-Mail" width="200">
   <br>
-  <textarea placeholder="Message"></textarea width="200">
+  <textarea placeholder="Message" width="200"></textarea>
   <br>
   <button type="submit">Send</button>
 </form>
