@@ -2,7 +2,7 @@
 
 I am a first-year student at Conestoga in the Computer Programming and Analysis program.
 
-### Skills
+## Skills
 
 Currently learning:
 - Javascript
@@ -11,32 +11,38 @@ Currently learning:
 - SQL
 - C#
 
-### Projects
+## Projects
 
-![GarageSaleFundRaiser](https://user-images.githubusercontent.com/102302853/159956599-3220eb66-3f1d-41ac-bfad-8eb0485e130e.png)
+<figcaption>
+  <h4>Garage Sale Fund Raiser order screen made with HTML, CSS, and Javascript</h4>
+</figcaption>
+<img src="https://user-images.githubusercontent.com/102302853/159956599-3220eb66-3f1d-41ac-bfad-8eb0485e130e.png" width="400">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<figcaption>
+  <h4>Alarm Clock made with C# windows forms</h4>
+</figcaption>
+<img src="https://user-images.githubusercontent.com/102302853/159958048-702f4aa4-0913-41af-8681-64987d9d8bb3.png" width="400">
 
-1. Numbered
-2. List
+## Contact Me
 
-**Bold** and _Italic_ and `Code` text
+<form>
+  <label>Name: </label>
+  <input type="text">
+  <label>Email: </label>
+  <input type="email">
+  <label>Message: </label>
+  <textarea></textarea>
+</form>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gloriarivas/gloria.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+<div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+                <form action="https://formspree.io/mpzyqdng" method="POST">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
