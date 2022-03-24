@@ -27,14 +27,11 @@ Currently learning:
 ## Contact Me
 
 <form>
-  <label>Name: </label>
-  <input type="text">
+  <input type="text" placeholder="Name" width="200">
   <br>
-  <label>Email: </label>
-  <input type="email">
+  <input type="email" placeholder="E-Mail" width="200">
   <br>
-  <label>Message: </label>
-  <textarea></textarea>
+  <textarea placeholder="Message"></textarea width="200">
   <br>
   <button type="submit">Send</button>
 </form>
