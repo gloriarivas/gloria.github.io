@@ -29,13 +29,13 @@ Currently learning:
 <form>
   <label>Name: </label>
   <input type="text">
-  
+  <br></br>
   <label>Email: </label>
   <input type="email">
-  
+  <br></br>
   <label>Message: </label>
-  
+  <br></br>
   <textarea></textarea>
-  
+  <br></br>
   <button type="submit">Send</button>
 </form>
