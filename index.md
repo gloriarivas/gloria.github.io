@@ -44,9 +44,9 @@ Currently learning:
 <form>
   <input type="text" placeholder="Name" width="800">
   <br>
-  <input type="email" placeholder="E-Mail" width="800">
+  <input type="email" placeholder="E-Mail" style="width:800px;">
   <br>
-  <textarea placeholder="Message" rows="7" width="1000"></textarea>
+  <textarea placeholder="Message" style="width:200px; height:600px;></textarea>
   <br>
   <button type="submit">Send</button>
 </form>
