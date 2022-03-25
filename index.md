@@ -42,11 +42,11 @@ Currently learning:
 ## Contact Me
 
 <form>
-  <input type="text" placeholder="Name" style="width:600px;">
+  <input type="text" placeholder="Name" style="width:600px; height:30px;">
   <br>
   <input type="email" placeholder="E-Mail" style="width:600px;">
   <br>
-  <textarea placeholder="Message" style="width:200px; height:600px;"></textarea>
+  <textarea placeholder="Message" style="width:600px; height:200px;"></textarea>
   <br>
   <button type="submit">Send</button>
 </form>
