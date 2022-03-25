@@ -21,7 +21,7 @@ Currently learning:
 
 <figcaption>
   <h4>Converts temperature between Celius and Farenheit <br>
-    Converts length between inches and centimeters</h4>
+    Converts length between meters and feet</h4>
 </figcaption>
 <img src="https://user-images.githubusercontent.com/102302853/160210438-6ae3fe7f-fbed-456e-9266-0aa91aa1d44d.png" width="600">
 
