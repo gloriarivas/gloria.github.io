@@ -43,10 +43,11 @@ Currently learning:
 
 <form>
   <input type="text" placeholder="Name" style="width:600px; height:30px;">
-  <br>
-  <input type="email" placeholder="E-Mail" style="width:600px;">
-  <br>
-  <textarea placeholder="Message" style="width:600px; height:200px;"></textarea>
-  <br>
+  <br><br>
+  <input type="email" placeholder="E-Mail" style="width:600px; height:30px;">
+  <br><br>
+  <textarea placeholder="Message" style="width:602px; height:50px;"></textarea>
+  <br><br>
   <button type="submit">Send</button>
+  <br>
 </form>
